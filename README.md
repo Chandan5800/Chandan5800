@@ -3,11 +3,12 @@
 <h3 align="center">A passionate Software Engineer from India.</h3>
 <img align="right" alt="coding" widht="500px" height="250px" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 👨‍💻 My Portfolio https://chandan-kumar01.netlify.app/
+- 👨‍💻 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://chandan-kumar01.netlify.app/)
+  
+- 📫 [![Email](https://img.shields.io/badge/Email-Sendmail-red?style=for-the-badge)](mailto:chandankumar61006br@gmail.com)
+  
+- 📄 [![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge)](https://drive.google.com/file/d/1-c_r-0S8PNDzIrWI9DcwTYmyFUcmmyxn/view?usp=sharing)
 
-- 📫 How to reach me **chandankumar61006br@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1-c_r-0S8PNDzIrWI9DcwTYmyFUcmmyxn/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
